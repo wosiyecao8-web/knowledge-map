@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" rx="36" fill="#e9ebe6"/>
+<circle cx="650" cy="80" r="180" fill="#d5ddd7" opacity=".75"/>
+<circle cx="90" cy="400" r="220" fill="#f4f0e7"/>
+<text x="70" y="230" font-size="118" font-family="Arial, sans-serif" font-weight="700" fill="#273b34">♬</text>
+<text x="74" y="320" font-size="40" font-family="Arial, sans-serif" fill="#5f6d67">钢琴</text>
+</svg>
